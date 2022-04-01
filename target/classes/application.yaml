@@ -1,0 +1,23 @@
+
+spring:
+  datasource:
+    username: root
+    password: 520524
+    url: jdbc:mysql://localhost:3306/capital_manage?serverTimezone=Asia/Shanghai&useUnicode=true&characterEncoding=utf-8&allowMultiQueries=true
+    driver-class-name: com.mysql.cj.jdbc.Driver
+  servlet:
+    multipart:
+      enabled: true
+      max-file-size: 10MB
+      max-request-size: 5MB
+
+mybatis:
+  #表示在xml中类名的包路径
+  type-aliases-package: com.yan.pojo
+  #表示xml文件所在的路径
+  mapper-locations: classpath:mybatis/*.xml
+  #开启数据库下划线与java驼峰命名的自动转换
+  configuration:
+    map-underscore-to-camel-case: true
+server:
+  port: 80

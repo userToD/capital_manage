@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9726514b-ff37-4fb0-8412-8fc0c9fe590c" name="默认变更列表" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Kotlin Class" />
+        <option value="spring-beans.schema" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="F:\maven\apache-maven-3.6.3\maven-pro" />
+        <option name="mavenHome" value="F:\maven\apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="F:\maven\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="vmOptions" value="-DarchetypeCatalog=local" />
+  </component>
+  <component name="ProjectId" id="1z2DCba8kXjA1AEtQZqD2btdEsq" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="项目" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="H:\毕设(系统)\后端\capital_manage\target\classes\static\img" />
+      <recent name="H:\毕设(系统)\后端\capital_manage\src\main\resources\static\img" />
+      <recent name="H:\毕设(系统)\后端\capital_manage\src\main\java\com\yan\mapper" />
+      <recent name="H:\毕设(系统)\后端\capital_manage\src\main\resources\static\playPay" />
+      <recent name="H:\毕设(系统)\后端\capital_manage\target\classes\static\playPay" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="H:\毕设(系统)\后端\capital_manage\src\main\resources\mybatis" />
+      <recent name="H:\毕设(系统)\后端\capital_manage\target\classes\static\user-img" />
+      <recent name="H:\毕设\后端\capital_manage\src\main\resources\static\user-img" />
+      <recent name="H:\毕设\后端\capital_manage\src\main\resources\static\img" />
+      <recent name="H:\毕设\后端\capital_manage\src\main\resources\static" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.yan.service.Impl" />
+      <recent name="com.yan.service" />
+      <recent name="com.yan.mapper" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.CapitalManageApplication">
+    <configuration name="CodebookController" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yan.controller.CodebookController" />
+      <module name="capital_manage" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yan.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yan.test" />
+      <module name="capital_manage" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yan.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CapitalManageApplicationTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="capital_manage" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yan.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.yan" />
+      <option name="MAIN_CLASS_NAME" value="com.yan.CapitalManageApplicationTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CapitalManageApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="capital_manage" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yan.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.yan" />
+      <option name="MAIN_CLASS_NAME" value="com.yan.CapitalManageApplicationTests" />
+      <option name="METHOD_NAME" value="contextLoads" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CapitalManageApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="capital_manage" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.yan.CapitalManageApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tomcat 9.0.44" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.44" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment />
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="d01336e3-5975-42e8-9e48-b23c6af59e0f" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="54108" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Profile">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.CapitalManageApplicationTests" />
+      <item itemvalue="JUnit.CapitalManageApplicationTests.contextLoads" />
+      <item itemvalue="Spring Boot.CapitalManageApplication" />
+      <item itemvalue="Tomcat Server.Tomcat 9.0.44" />
+      <item itemvalue="应用程序.test" />
+      <item itemvalue="应用程序.CodebookController" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.CapitalManageApplicationTests.contextLoads" />
+        <item itemvalue="应用程序.test" />
+        <item itemvalue="应用程序.CodebookController" />
+        <item itemvalue="JUnit.CapitalManageApplicationTests" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="9726514b-ff37-4fb0-8412-8fc0c9fe590c" name="默认变更列表" comment="" />
+      <created>1633337166094</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1633337166094</updated>
+      <workItem from="1633337167253" duration="7253000" />
+      <workItem from="1633590531949" duration="765000" />
+      <workItem from="1633591610904" duration="25608000" />
+      <workItem from="1633666354527" duration="6792000" />
+      <workItem from="1633681269948" duration="2606000" />
+      <workItem from="1633691066282" duration="7929000" />
+      <workItem from="1633706702924" duration="1334000" />
+      <workItem from="1633735619703" duration="56000" />
+      <workItem from="1633736117226" duration="1163000" />
+      <workItem from="1633737473453" duration="1439000" />
+      <workItem from="1633785929312" duration="3023000" />
+      <workItem from="1633861400645" duration="12716000" />
+      <workItem from="1633926074907" duration="2985000" />
+      <workItem from="1633930528170" duration="616000" />
+      <workItem from="1633932050260" duration="319000" />
+      <workItem from="1633934898334" duration="6529000" />
+      <workItem from="1634094650640" duration="940000" />
+      <workItem from="1634108525746" duration="3780000" />
+      <workItem from="1634188235958" duration="12142000" />
+      <workItem from="1635349366821" duration="620000" />
+      <workItem from="1635388346270" duration="1259000" />
+      <workItem from="1635412101893" duration="1697000" />
+      <workItem from="1635987649491" duration="365000" />
+      <workItem from="1638204387626" duration="52000" />
+      <workItem from="1638255703104" duration="604000" />
+      <workItem from="1638259166565" duration="6164000" />
+      <workItem from="1638353295225" duration="4529000" />
+      <workItem from="1638441364337" duration="938000" />
+      <workItem from="1639201709182" duration="1780000" />
+      <workItem from="1639285550173" duration="540000" />
+      <workItem from="1639286529298" duration="834000" />
+      <workItem from="1639288257640" duration="192000" />
+      <workItem from="1639320581930" duration="1517000" />
+      <workItem from="1640855616668" duration="16000" />
+      <workItem from="1644469818566" duration="10983000" />
+      <workItem from="1644578002428" duration="6068000" />
+      <workItem from="1644663500499" duration="5901000" />
+      <workItem from="1644840677223" duration="5860000" />
+      <workItem from="1644903323149" duration="541000" />
+      <workItem from="1645010162987" duration="10333000" />
+      <workItem from="1645096702927" duration="10327000" />
+      <workItem from="1645168048408" duration="6437000" />
+      <workItem from="1645186455262" duration="3377000" />
+      <workItem from="1645257599442" duration="14080000" />
+      <workItem from="1645331657992" duration="10816000" />
+      <workItem from="1645353364093" duration="11921000" />
+      <workItem from="1645368615222" duration="3044000" />
+      <workItem from="1645433055598" duration="15171000" />
+      <workItem from="1645516214419" duration="14769000" />
+      <workItem from="1645544637670" duration="622000" />
+      <workItem from="1645675651133" duration="14187000" />
+      <workItem from="1645762370976" duration="21227000" />
+      <workItem from="1645886342193" duration="1493000" />
+      <workItem from="1645945269700" duration="9910000" />
+      <workItem from="1646013323107" duration="31360000" />
+      <workItem from="1646133078271" duration="16459000" />
+      <workItem from="1646188688896" duration="12083000" />
+      <workItem from="1646231307417" duration="263000" />
+      <workItem from="1646314682666" duration="687000" />
+      <workItem from="1646407202413" duration="1981000" />
+      <workItem from="1646409280248" duration="27038000" />
+      <workItem from="1646551647157" duration="15704000" />
+      <workItem from="1646650313948" duration="1221000" />
+      <workItem from="1646672231804" duration="30472000" />
+      <workItem from="1646799436877" duration="23976000" />
+      <workItem from="1646885741247" duration="27273000" />
+      <workItem from="1646998349458" duration="7964000" />
+      <workItem from="1647176557263" duration="5160000" />
+      <workItem from="1647243688341" duration="12723000" />
+      <workItem from="1647322018620" duration="14295000" />
+      <workItem from="1647404779391" duration="5855000" />
+      <workItem from="1647440171103" duration="2796000" />
+      <workItem from="1648788852357" duration="1788000" />
+      <workItem from="1648792363318" duration="173000" />
+      <workItem from="1648798333599" duration="1076000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
